@@ -1,2 +1,2 @@
-# reddit-meme-app
+# Subreddit Meme
 Web application generate meme from subreddit
